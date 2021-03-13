@@ -61,7 +61,7 @@ function draw(){
     log4.display();
     log5.display();
 
-    text("yusuf is cool",200,200)
+    text("cool",200,200)
 
     bird.display();
     platform.display();
